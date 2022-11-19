@@ -53,6 +53,10 @@ flex-direction: column;
     width: 70%;
 }
 
+.introContainer h2{
+    text-decoration: underline;
+}
+
 
 
 .introImgContainer{
