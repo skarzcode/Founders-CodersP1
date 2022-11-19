@@ -122,7 +122,6 @@ margin: 20px auto;
     align-items: center;
     flex-direction: column;
     background-color: white;
-    list-style: none;
 }
 
 .factsContainer ul li{
